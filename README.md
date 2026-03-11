@@ -66,6 +66,7 @@ endmodule
 
 
 **RESULTS**
+
 The SR flipflop is implemented successfully using verilog and the truth table is verified with all expected outputs matching the functionality.
 
 
